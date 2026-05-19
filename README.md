@@ -1,6 +1,6 @@
 # Atharva Magar
 
-Full Stack Developer · Patented Inventor · 3rd Year CS @ AISSMS IOIT, Pune
+Full Stack Developer · Patented Inventor · last Year CS @ AISSMS IOIT, Pune
 
 ---
 
