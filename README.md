@@ -23,6 +23,16 @@ A **research paper** I co-authored has cleared peer review and is accepted for o
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat)
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
@@ -31,6 +41,8 @@ A **research paper** I co-authored has cleared peer review and is accepted for o
 | Project | What it is | Stack | Link |
 |---|---|---|---|
 | **BookHub** | Hyperlocal book-sharing platform with AI assistant | Python · Django · MySQL · HTML/CSS | [Live →](https://bookhub-qjn2.onrender.com) |
+| **AI Career Coach** | AI-powered career development platform with ATS scoring, resume review, cover letter generation, interview prep, and skill roadmaps · Built with Chetana Nehete & Harshali Patil | Next.js · React · Tailwind · Prisma · PostgreSQL · Gemini API | [Live →](https://your-vercel-app-url.vercel.app) |
+| **Smart Assistive Blind Stick for Visually Impaired** | IoT-based assistive system with obstacle detection, water sensing, GPS tracking, and voice-based guidance · Built with Chetana Nehete & Harshali Patil | ESP32 · IoT · GPS · Embedded Systems · Arduino IDE | Hardware Project |
 | **Farm Monitoring AI Machine** | Co-invented · Govt. registered Design Patent No. 476772-001 | Hardware Design · AI | CGPDTM Registered |
 
 ---
@@ -38,10 +50,12 @@ A **research paper** I co-authored has cleared peer review and is accepted for o
 ### Experiences
 
 - Design Patent · Office of the Controller General of Patents, Designs & Trade Marks, Govt. of India · Oct 2025
-- Research Paper · Accepted for oral presentation · 2025
+- Research Paper · Accepted for oral presentation · 2026
 - Google UX Design Certificate · Coursera · Sep 2025
 - SQL Silver · HackerRank
-- Sinremtech Hackathon · Participant · 2025
+- Sinremtech Hackathon · Participant · 2024
+- Smart Assistive Blind Stick for Visually Impaired · IoT-based Assistive System · 2026
+- AI Career Coach · Full Stack AI Platform · 2026
 
 ---
 
