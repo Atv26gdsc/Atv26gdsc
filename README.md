@@ -33,6 +33,8 @@ A **research paper** I co-authored has cleared peer review and is accepted for o
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat)
 ![IoT](https://img.shields.io/badge/IoT-0A66C2?style=flat)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
@@ -42,6 +44,7 @@ A **research paper** I co-authored has cleared peer review and is accepted for o
 |---|---|---|---|
 | **BookHub** | Hyperlocal book-sharing platform with AI assistant | Python · Django · MySQL · HTML/CSS | [Live →](https://bookhub-qjn2.onrender.com) |
 | **AI Career Coach** | AI-powered career development platform with ATS scoring, resume review, cover letter generation, interview prep, and skill roadmaps · Built with Chetana Nehete & Harshali Patil | Next.js · React · Tailwind · Prisma · PostgreSQL · Gemini API | [Live →](https://your-vercel-app-url.vercel.app) |
+| **Typing Game** | Dockerized typing speed game deployed on Vercel | HTML · CSS · Docker · Nginx · Vercel | [Live →](https://your-typinggame.vercel.app) |
 | **Smart Assistive Blind Stick for Visually Impaired** | IoT-based assistive system with obstacle detection, water sensing, GPS tracking, and voice-based guidance · Built with Chetana Nehete & Harshali Patil | ESP32 · IoT · GPS · Embedded Systems · Arduino IDE | Hardware Project |
 | **Farm Monitoring AI Machine** | Co-invented · Govt. registered Design Patent No. 476772-001 | Hardware Design · AI | CGPDTM Registered |
 
@@ -56,7 +59,7 @@ A **research paper** I co-authored has cleared peer review and is accepted for o
 - Sinremtech Hackathon · Participant · 2024
 - Smart Assistive Blind Stick for Visually Impaired · IoT-based Assistive System · 2026
 - AI Career Coach · Full Stack AI Platform · 2026
-
+- Typing Game · Dockerized Static Website Deployment on Vercel · 2026
 ---
 
 ### Currently
@@ -65,3 +68,4 @@ Building. Available for full-stack or software development roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-magar)
 [![BookHub](https://img.shields.io/badge/BookHub-Live-brightgreen?style=flat)](https://bookhub-qjn2.onrender.com)
+[![Typing Game](https://img.shields.io/badge/Typing_Game-Live-black?style=flat&logo=vercel)](https://typing-game-sigma-sable.vercel.app/)
